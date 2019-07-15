@@ -1,0 +1,2 @@
+# kibana-logtrail
+Kibana + Logtrail
